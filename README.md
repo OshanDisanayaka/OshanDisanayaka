@@ -8,8 +8,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/oshan-disanayaka-45b4b211b/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:odisanayaka@gmail.com"><img src="https://img.shields.io/badge/Email-odisanayaka%40gmail.com-10382C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=odisanayaka@gmail.com&su=Hello%20Oshan"><img src="https://img.shields.io/badge/Email-Send%20a%20message-10382C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
+
+<p align="center">odisanayaka@gmail.com</p>
 
 ---
 
@@ -34,31 +36,15 @@ My thesis is about **automatic detection, repair and verification of architectur
 
 ## Tech stack
 
-<p>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
-</p>
+**Languages:** PHP · Java · JavaScript · Python · SQL · HTML5 · CSS3
 
-**Quality tools:** PHPUnit · PHPStan · Psalm · PHPMD
+**Frameworks and libraries:** Laravel · Bootstrap · OpenCV
+
+**Databases:** MySQL · PostgreSQL
+
+**Tools:** Git · GitHub · PHPUnit · PHPStan · Psalm · PHPMD · Ollama
 
 ## Education
 
 - **MSc in Information Technology**, Latvia University of Life Sciences and Technologies (LBTU), 2025 – 2027
 - **BSc (Hons) in Information Technology**, University of West London, 2023
-
----
-
-<p align="center">
-  <a href="https://github.com/OshanDisanayaka"><img src="https://github-readme-stats.vercel.app/api?username=OshanDisanayaka&show_icons=true&hide_border=true&theme=default&count_private=true" alt="GitHub stats" height="150"/></a>
-  <a href="https://github.com/OshanDisanayaka"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OshanDisanayaka&layout=compact&hide_border=true&theme=default" alt="Top languages" height="150"/></a>
-</p>
