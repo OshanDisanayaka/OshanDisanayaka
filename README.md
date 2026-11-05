@@ -31,8 +31,11 @@ My thesis is about **automatic detection, repair and verification of architectur
 |---|---|---|
 | **Structura** (Master's thesis) | Pipeline that finds architectural problems in PHP code, repairs them with local language models and verifies every repair | PHP, Python, Ollama, PHPStan, Psalm |
 | **Learning Management System** | Desktop application with role-based login and separate student and instructor dashboards | Java, MySQL, JDBC |
-| **Client websites** | MoonstoneMine, ShimmerBlackWood, MultiPurposeCenter, CeylonDewTourism | PHP, Laravel, JavaScript, Bootstrap |
-| **Machine Vision Inspection** | Optical inspection of metal rings on plastic products with an industrial camera | Python, OpenCV |
+| **[MoonstoneMine](https://github.com/OshanDisanayaka/MoonstoneMine)** | Client website | PHP, JavaScript, Bootstrap |
+| **[ShimmerBlackWood](https://github.com/OshanDisanayaka/ShimmerBlackWood)** | Client website | PHP, JavaScript, Bootstrap |
+| **[MultiPurposeCenter](https://github.com/OshanDisanayaka/MultiPurposeCenter)** | Client website | PHP, JavaScript, Bootstrap |
+| **[CeylonDewTourism](https://github.com/OshanDisanayaka/CeylonDewTourism)** | Client tourism website | PHP, JavaScript, Bootstrap |
+| **[Machine Vision Ring Inspection](https://github.com/OshanDisanayaka/Machine-vision-ring-inspection)** | Detects whether a metal ring is present on plastic parts using an industrial camera and colour analysis | Python, OpenCV |
 
 ## Tech stack
 
@@ -40,7 +43,7 @@ My thesis is about **automatic detection, repair and verification of architectur
 
 **Frameworks and libraries:** Laravel · Bootstrap · OpenCV
 
-**Databases:** MySQL · PostgreSQL
+**Database:** MySQL
 
 **Tools:** Git · GitHub · PHPUnit · PHPStan · Psalm · PHPMD · Ollama
 
