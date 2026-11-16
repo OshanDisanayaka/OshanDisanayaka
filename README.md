@@ -30,7 +30,7 @@ My thesis is about **automatic detection, repair and verification of architectur
 | Project | Description | Stack |
 |---|---|---|
 | **Structura** (Master's thesis) | Pipeline that finds architectural problems in PHP code, repairs them with local language models and verifies every repair | PHP, Python, Ollama, PHPStan, Psalm |
-| **Learning Management System** | Desktop application with role-based login and separate student and instructor dashboards | Java, MySQL, JDBC |
+| **[MastersInstitute](https://github.com/OshanDisanayaka/MastersInstitute)** | (BSc final project) | Management system for a real tuition institute: student registration, payments, attendance e-mails, lecturer salaries | Java, Swing, MySQL |
 | **[MoonstoneMine](https://github.com/OshanDisanayaka/MoonstoneMine)** | Client website | PHP, JavaScript, Bootstrap |
 | **[ShimmerBlackWood](https://github.com/OshanDisanayaka/ShimmerBlackWood)** | Client website | PHP, JavaScript, Bootstrap |
 | **[MultiPurposeCenter](https://github.com/OshanDisanayaka/MultiPurposeCenter)** | Client website | PHP, JavaScript, Bootstrap |
