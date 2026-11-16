@@ -2,7 +2,7 @@
 <h3 align="center">Software Developer · MSc Information Technology</h3>
 
 <p align="center">
-  PHP · Laravel · Java · JavaScript · MySQL<br>
+  Java · PHP · JavaScript · MySQL · Python<br>
   Based in Riga, Latvia · Open to relocation
 </p>
 
@@ -17,35 +17,35 @@
 
 ## About
 
-I build web and desktop applications for real clients, mainly with PHP/Laravel, Java and MySQL. I am finishing my Master's in Information Technology at Latvia University of Life Sciences and Technologies (LBTU), graduating in February 2027.
+I build web and desktop applications for real clients, mainly with Java, PHP, JavaScript and MySQL. I am finishing my Master's in Information Technology at Latvia University of Life Sciences and Technologies (LBTU), graduating in February 2027.
 
 My thesis is about **automatic detection, repair and verification of architectural problems in PHP applications** using local language models. I care about code quality, maintainable architecture and checking that automatic changes are safe.
 
 ## Experience
 
-- **Freelance Software Engineer** (2020 – present): inventory-management and learning-management systems, and client websites built with PHP/Laravel, Java and MySQL.
+- **Freelance Software Engineer** (2020 – present): management systems (inventory, learning and institute management) built with Java and MySQL, and responsive client websites built with PHP, HTML, CSS, JavaScript and Bootstrap.
 
 ## Selected work
 
 | Project | Description | Stack |
 |---|---|---|
 | **Structura** (Master's thesis) | Pipeline that finds architectural problems in PHP code, repairs them with local language models and verifies every repair | PHP, Python, Ollama, PHPStan, Psalm |
-| **[MastersInstitute](https://github.com/OshanDisanayaka/MastersInstitute)** | (BSc final project) | Management system for a real tuition institute: student registration, payments, attendance e-mails, lecturer salaries | Java, Swing, MySQL |
-| **[MoonstoneMine](https://github.com/OshanDisanayaka/MoonstoneMine)** | Client website | PHP, JavaScript, Bootstrap |
-| **[ShimmerBlackWood](https://github.com/OshanDisanayaka/ShimmerBlackWood)** | Client website | PHP, JavaScript, Bootstrap |
-| **[MultiPurposeCenter](https://github.com/OshanDisanayaka/MultiPurposeCenter)** | Client website | PHP, JavaScript, Bootstrap |
-| **[CeylonDewTourism](https://github.com/OshanDisanayaka/CeylonDewTourism)** | Client tourism website | PHP, JavaScript, Bootstrap |
-| **[Machine Vision Ring Inspection](https://github.com/OshanDisanayaka/Machine-vision-ring-inspection)** | Detects whether a metal ring is present on plastic parts using an industrial camera and colour analysis | Python, OpenCV |
+| **[MastersInstitute](https://github.com/OshanDisanayaka/MastersInstitute)** (BSc final project) | Management system for a real tuition institute: student registration, payments, attendance e-mails, lecturer salaries | Java, Swing, MySQL, JDBC |
+| **[MoonstoneMine](https://github.com/OshanDisanayaka/MoonstoneMine)** | Client website for a gemstone and moonstone seller | PHP, HTML, CSS, JavaScript, jQuery, Bootstrap |
+| **[ShimmerBlackWood](https://github.com/OshanDisanayaka/ShimmerBlackWood)** | Client website for a hotel | PHP, HTML, CSS, JavaScript, Bootstrap |
+| **[MultiPurposeCenter](https://github.com/OshanDisanayaka/MultiPurposeCenter)** | Client website for a gym, hall and library centre | PHP, HTML, CSS, JavaScript, Bootstrap |
+| **[CeylonDewTourism](https://github.com/OshanDisanayaka/CeylonDewTourism)** | Client website for a tourism business | PHP, HTML, CSS, JavaScript, jQuery, Bootstrap |
+| **[Machine Vision Ring Inspection](https://github.com/OshanDisanayaka/Machine-vision-ring-inspection)** | Detects whether a metal ring is present on plastic parts using an industrial camera and colour analysis | Python, OpenCV, NumPy, Matplotlib, Jupyter |
 
 ## Tech stack
 
-**Languages:** PHP · Java · JavaScript · Python · SQL · HTML5 · CSS3
+**Languages:** Java · PHP · JavaScript · Python · SQL · HTML5 · CSS3
 
-**Frameworks and libraries:** Laravel · Bootstrap · OpenCV
+**Frameworks and libraries:** Java Swing · JDBC · Bootstrap · jQuery · OpenCV · NumPy
 
 **Database:** MySQL
 
-**Tools:** Git · GitHub · PHPUnit · PHPStan · Psalm · PHPMD · Ollama
+**Tools:** Git · GitHub · NetBeans · PHPUnit · PHPStan · Psalm · PHPMD · Ollama · Jupyter
 
 ## Education
 
